@@ -1,6 +1,6 @@
 # ME489f23
 Name:Ata Bora Çakmakci
 Student no:2445617
-Gmail: atabcakmakci@gmail.com
+mail: ata.cakmakci@metu.edu.tr
 Mobile: 05320590251
-Team member: Mustafa Görgün
+Team member: Mustafa Yiğit Görgün
